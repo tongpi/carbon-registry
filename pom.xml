@@ -1534,5 +1534,17 @@
         <project.scm.id>wso2-scm-server</project.scm.id>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-    </properties>
+    </properties>    
+    <distributionManagement>
+        <repository>
+            <id>releases</id>
+            <name>长城数字软件产品库</name>
+            <url>http://192.168.200.69:8081/nexus/content/repositories/releases/</url>
+        </repository>
+        <snapshotRepository>
+            <id>snapshots</id>
+            <name>长城数字软件开发库</name>
+            <url>http://192.168.200.69:8081/nexus/content/repositories/snapshots/</url>
+        </snapshotRepository>
+    </distributionManagement>      
 </project>
