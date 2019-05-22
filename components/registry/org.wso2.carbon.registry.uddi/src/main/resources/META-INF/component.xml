@@ -18,7 +18,7 @@
 <component xmlns="http://products.wso2.org/carbon">
     <ManagementPermissions>
         <ManagementPermission>
-            <DisplayName>UDDIPublisher</DisplayName>
+            <DisplayName>UDDI发布器</DisplayName>
             <ResourceId>/permission/admin/manage/uddipublish</ResourceId>
         </ManagementPermission>
     </ManagementPermissions>

@@ -18,15 +18,15 @@
 <component xmlns="http://products.wso2.org/carbon">
     <ManagementPermissions>
         <ManagementPermission>
-            <DisplayName>Manage</DisplayName>
+            <DisplayName>管理</DisplayName>
             <ResourceId>/permission/admin/manage</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
-            <DisplayName>Resources</DisplayName>
+            <DisplayName>资源</DisplayName>
             <ResourceId>/permission/admin/manage/resources</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
-            <DisplayName>Community Features</DisplayName>
+            <DisplayName>社区功能</DisplayName>
             <ResourceId>/permission/admin/manage/resources/community-features</ResourceId>
         </ManagementPermission>
    </ManagementPermissions>

@@ -18,19 +18,19 @@
 <component xmlns="http://products.wso2.org/carbon">
     <ManagementPermissions>
         <ManagementPermission>
-            <DisplayName>Manage</DisplayName>
+            <DisplayName>管理</DisplayName>
             <ResourceId>/permission/admin/manage</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
-            <DisplayName>Search</DisplayName>
+            <DisplayName>搜索</DisplayName>
             <ResourceId>/permission/admin/manage/search</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
-            <DisplayName>Basic</DisplayName>
+            <DisplayName>基本搜索</DisplayName>
             <ResourceId>/permission/admin/manage/search/resources</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
-            <DisplayName>Advanced</DisplayName>
+            <DisplayName>高级搜索</DisplayName>
             <ResourceId>/permission/admin/manage/search/advanced-search</ResourceId>
         </ManagementPermission>
    </ManagementPermissions>
